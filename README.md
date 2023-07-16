@@ -5,9 +5,9 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - Develop HTML and CSS document. 
-- First time developing a web document
-- added semantic elements and modified CSS to match. Also cosolitadated redundendt CSS coding
-- I learned wed deveolpmwnt takes time and pracice
+- First time developing a web document.
+- Added semantic elements and modified CSS to match. Also cosolitadated redundent CSS coding
+- I learned web development takes time and pracice
 
 
 
