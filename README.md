@@ -17,5 +17,5 @@ https://developer.mozilla.org/en-US/ - used this site to learn the basics of HTM
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide - used this site for readmefoundation.
 
-https://www.computerhope.com/starthtm.htm - Html tutorial
+https://www.computerhope.com/starthtm.htm - HTML tutorial
 
